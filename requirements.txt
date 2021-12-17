@@ -1,0 +1,16 @@
+aiohttp==3.7.4.post0
+async-timeout==3.0.1
+attrs==21.2.0
+black==21.12b0
+chardet==4.0.0
+click==8.0.3
+discord.py==1.7.3
+idna==3.3
+multidict==5.2.0
+mypy-extensions==0.4.3
+pathspec==0.9.0
+platformdirs==2.4.0
+python-dotenv==0.19.2
+tomli==1.2.3
+typing-extensions==4.0.1
+yarl==1.7.2
